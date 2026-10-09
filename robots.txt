@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cerrajero-montevideo.github.io/sanitario-montevideo/sitemap.xml
